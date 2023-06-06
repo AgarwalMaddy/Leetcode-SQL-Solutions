@@ -5,4 +5,6 @@
 
 * [595. Big Countries](https://leetcode.com/problems/big-countries/?envType=study-plan-v2&envId=top-sql-50) -> [Solution @Leetcode](https://leetcode.com/problems/big-countries/solutions/3605486/big-countries-sql-explained-solution/)
 
+* [1148. Article Views I](https://leetcode.com/problems/article-views-i/description/?envType=study-plan-v2&envId=top-sql-50) -> [Solution @Leetcode](https://leetcode.com/problems/article-views-i/solutions/3605515/article-views-1-mysql-explained-solution/)
+
 * [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50) -> [Solution @Leetcode](https://leetcode.com/problems/recyclable-and-low-fat-products/solutions/3589933/recyclable-and-low-fat-simple-solution-sql-select-query/)

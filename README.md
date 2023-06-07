@@ -7,6 +7,8 @@
 
 * [1148. Article Views I](https://leetcode.com/problems/article-views-i/description/?envType=study-plan-v2&envId=top-sql-50) -> [Solution @Leetcode](https://leetcode.com/problems/article-views-i/solutions/3605515/article-views-1-mysql-explained-solution/)
 
+* [1378. Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/?envType=study-plan-v2&envId=top-sql-50) -> [Solution @Leetcode](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/solutions/3610236/employee-id-mysql-explained-solution/)
+
 * [1683. Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/?envType=study-plan-v2&envId=top-sql-50) -> [Solution @Leetcode](https://leetcode.com/problems/invalid-tweets/solutions/3605530/invalid-tweets-length-mysql-explained-solution/)
 
 * [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50) -> [Solution @Leetcode](https://leetcode.com/problems/recyclable-and-low-fat-products/solutions/3589933/recyclable-and-low-fat-simple-solution-sql-select-query/)

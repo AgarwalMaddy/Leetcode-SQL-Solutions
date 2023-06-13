@@ -1,5 +1,7 @@
 # Leetcode-SQL 50-Solutions
  Crack SQL Interview in 50 Qs
+ 
+ * [570. Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/description/?envType=study-plan-v2&envId=top-sql-50) -> [Solution @Leetcode](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/description/)
 
 * [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50) -> [Solution @Leetcode](https://leetcode.com/problems/find-customer-referee/solutions/3594824/mysql-solution-customer-referrals-simple-and-explained/)
 

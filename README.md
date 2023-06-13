@@ -14,3 +14,5 @@
 * [1683. Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/?envType=study-plan-v2&envId=top-sql-50) -> [Solution @Leetcode](https://leetcode.com/problems/invalid-tweets/solutions/3605530/invalid-tweets-length-mysql-explained-solution/)
 
 * [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50) -> [Solution @Leetcode](https://leetcode.com/problems/recyclable-and-low-fat-products/solutions/3589933/recyclable-and-low-fat-simple-solution-sql-select-query/)
+
+* [1934. Confirmation Rate](https://leetcode.com/problems/confirmation-rate/description/?envType=study-plan-v2&envId=top-sql-50) -> [Solution @Leetcode](https://leetcode.com/problems/confirmation-rate/solutions/3635130/confirmation-rate-mysql-explained/)

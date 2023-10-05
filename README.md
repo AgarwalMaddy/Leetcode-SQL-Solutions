@@ -2,19 +2,6 @@
 
 This repository contains solutions to database-related problems available on the LeetCode platform. The problems cover various aspects of database management and querying, providing opportunities to practice SQL skills and problem-solving in a database context.
 
-## Contents
-
-The repository is organized into different folders based on the  topics. Each folder contains the solutions for the corresponding database problems.
-Also, the Solutions of Leetcode SQL 50 are reorganized in a group of their categories like below. Questions and Solutions will be the same as normal questions.
-
-- `Select`: Solutions for basic SQL select statements.
-- `Basic Joins`: Solutions for advanced SQL select statements.
-- `Basic Aggregate Functions`: Solutions for problems involving aggregation functions.
-- `Sorting and Grouping`: Solutions for problems involving table joins.
-- `Advance Select and Joins`: Solutions for problems involving window functions.
-- `Subqueries`: Solutions for problems involving stored procedures.
-- `Advanced String Functions / Regex / Clause`: Solutions for miscellaneous database problems.
-
 ## Usage
 
 You can navigate to the respective topic folder and explore the solutions for each problem. Each solution is provided as a separate SQL file, usually named after the problem it addresses.
